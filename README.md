@@ -26,21 +26,6 @@ Além disso, a atividade tem como finalidade reforçar boas práticas de program
 
 ---
 
-# Tecnologias Utilizadas
-
-As seguintes tecnologias e ferramentas foram utilizadas no desenvolvimento do projeto:
-
-| Tecnologia                  | Finalidade                         |
-| --------------------------- | ---------------------------------- |
-| Java JDK 21                 | Desenvolvimento da aplicação       |
-| Visual Studio Code (VSCode) | Ambiente de desenvolvimento        |
-| Git                         | Controle de versão                 |
-| GitHub                      | Hospedagem do repositório          |
-| JavaDoc                     | Geração automática de documentação |
-| PowerShell                  | Execução dos comandos              |
-
----
-
 # Estrutura do Projeto
 
 A estrutura do projeto foi organizada da seguinte forma:
